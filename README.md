@@ -24,6 +24,8 @@
     <p align="center">$${\color{#66BDBA}\textbf{𝙄𝙢 𝙢𝙤𝙨𝙩𝙡𝙮 𝙣𝙤𝙩 𝙞𝙣 𝙩𝙝𝙚 𝙘𝙧𝙤𝙬𝙙𝙨. 𝙎𝙞𝙣𝙘𝙚 𝙢𝙮 𝙛𝙧𝙞𝙚𝙣𝙙𝙨 𝙖𝙧𝙚 𝙢𝙤𝙨𝙩𝙡𝙮 𝙩𝙝𝙚𝙧𝙚}}$$
     <p align="center">$${\color{#66BDBA}\textbf{4 𝙮𝙚𝙖𝙧𝙨 𝙙𝙞𝙜𝙞𝙩𝙖𝙡 , 𝙩𝙧𝙖𝙙𝙞𝙩𝙞𝙤𝙣𝙖𝙡 𝙖𝙧𝙩𝙞𝙨𝙩 𝙞 𝙢𝙤𝙨𝙩𝙡𝙮 𝙙𝙧𝙖𝙬 𝙖𝙣𝙮𝙩𝙝𝙞𝙣𝙜 𝙞 𝙬𝙖𝙣𝙩.}}$$
     <p align="center">$${\color{#66BDBA}\textbf{𝙁𝙚𝙚𝙡 𝙛𝙧𝙚𝙚 𝙩𝙤 𝙖𝙨𝙠/𝙧𝙚𝙦𝙪𝙚𝙨𝙩 𝙢𝙚 𝙩𝙤 𝙙𝙧𝙖𝙬 𝙨𝙤𝙢𝙚𝙩𝙝𝙞𝙣𝙜 𝙮𝙤𝙪 𝙬𝙖𝙣𝙩 !, 𝙞 𝙬𝙤𝙪𝙡𝙙 𝙡𝙤𝙫𝙚 𝙩𝙤.}}$$
+    <p align="center">$${\color{#66BDBA}\textbf{𝑷𝒆𝒐𝒑𝒍𝒆 𝒄𝒂𝒍𝒍 𝒎𝒆}}$$
+    <p align="center">$${\color{#66BDBA}\textbf{𝑴𝒂𝒇𝒊/𝒎𝒂𝒇 , 𝑺𝒑𝒓𝒊𝒏𝒈 , 𝑻𝒉𝒐𝒎𝒂𝒔 , 𝑬𝒎𝒊}}$$
    </details>
 
 <p align="center">$${\color{#66BDBA}\textbf{...}}{\color{#66BDBA}\textbf{୨}}{\color{#66BDBA}\textbf{✩}}{\color{#549480}\textbf{୧}}{\color{#66BDBA}\textbf{...}}$$
