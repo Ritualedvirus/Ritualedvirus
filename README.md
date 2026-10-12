@@ -126,6 +126,10 @@
     <p align="center">$${\color{#384006}\textbf{𝙀𝙡𝙡𝙞𝙤𝙩 , 𝘾𝙝𝙖𝙣𝙘𝙚 , 𝙈𝙖𝙛𝙞𝙤𝙨𝙤}}$$
     <p align="center">$${\color{#384006}\textbf{𝙃𝙫𝙮𝙁𝙞𝙘𝙩𝙠𝙞𝙣}}$$
     <p align="center">$${\color{#384006}\textbf{𝙏𝙬𝙤𝙩𝙞𝙢𝙚 , 1𝙭 }}$$
+    </details>
+
+<p align="center">$${\color{#384006}\textbf{...}}{\color{#384006}\textbf{୨}}{\color{#384006}\textbf{✩}}{\color{#384006}\textbf{୧}}{\color{#384006}\textbf{...}}$$
+  
       
 <p align="center"><img width="736" alt="graphic" src="https://github.com/user-attachments/assets/62c54517-735a-4067-a3ba-40dc48fa6b76" />
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rye&size=24&duration=1400&pause=1700&color=384006&width=435&lines=you+look+pathetic+Telamon+." alt="Typing SVG" /></a>
