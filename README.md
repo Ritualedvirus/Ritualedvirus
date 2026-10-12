@@ -130,7 +130,8 @@
 <p align="center"><img width="736" alt="graphic" src="https://github.com/user-attachments/assets/62c54517-735a-4067-a3ba-40dc48fa6b76" />
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rye&size=24&duration=1400&pause=1700&color=384006&width=435&lines=you+look+pathetic+Telamon+." alt="Typing SVG" /></a>
 <p align="center"><img width="736" alt="lace" src="https://github.com/user-attachments/assets/a871e865-060c-4527-921b-d82dda3a6d34" />
-<p align="center"><img width="736" alt="Graphic" src="https://github.com/user-attachments/assets/4bb13619-222c-4536-9891-54cf7b947de8" />
+<p align="center"><img width="736" alt="Graphic5" src="https://github.com/user-attachments/assets/7531524e-d3e6-4464-a5f9-1a2d27d59029" />
+
 
 
 
