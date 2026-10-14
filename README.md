@@ -56,6 +56,9 @@
      </details>
 
 <p align="center">$${\color{#384006}\textbf{...}}{\color{#384006}\textbf{୨}}{\color{#384006}\textbf{✩}}{\color{#384006}\textbf{୧}}{\color{#384006}\textbf{...}}$$
+
+<p align="center"><img width="498" alt="azuretime-azuretime-forsaken" src="https://github.com/user-attachments/assets/78967a0b-291b-4068-b77f-932f02048205" />
+
   
 <p align="center"><img width="736" alt="lace" src="https://github.com/user-attachments/assets/a871e865-060c-4527-921b-d82dda3a6d34" />
 
