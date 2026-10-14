@@ -1,10 +1,10 @@
-<p align="center"><a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FDeadlyShade"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FDeadlyShade&label=Hatred&labelColor=400E06&CountColor=384006&style=for-the-badge&labelStyle=none" /></a>
+<p align="center"><a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FRitualedvirus%2FRitualedvirus%2Fedit%2Fmain%2FREADME.md"><img src="https://api.visitorbadge.io/api/daily?path=https%3A%2F%2Fgithub.com%2FRitualedvirus%2FRitualedvirus%2Fedit%2Fmain%2FREADME.md&label=Hatred&labelColor=%238e0a00&countColor=%23901000&style=plastic&labelStyle=upper" /></a>
 
 
 
 <p align="center"><img width="26" height="16" alt="22460137_8YiSDldX14crTHy" src="https://github.com/user-attachments/assets/aad5507a-954d-456a-8565-cac52658fd75" /><img width="26" height="16" alt="22461205_3l1VKp5w0kcyqZ2" src="https://github.com/user-attachments/assets/8a2fe915-fbed-4b46-95ab-44d31fa9547f" /><img width="26" height="16" alt="22494384_g0fuyj0PaJnLxQk" src="https://github.com/user-attachments/assets/e4e0453c-4f57-4b07-84d7-8782366ae58a" />
 
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rye&size=24&duration=1400&pause=1700&color=384006&width=435&lines=Your+Worth+Of+nothing+ALL+OF+IT." alt="Typing SVG" /></a>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=384006&center=true&vCenter=true&width=435&lines=Your+worth+of+nothing+peasants.;People+always+are+useless." alt="Typing SVG" /></a>
   
 <!--GRAPHIC 1-->
 <p align="center"><img width="736" alt="gRAPHIC1" src="https://github.com/user-attachments/assets/3506bf90-82ae-4c43-b522-300a18b10809" />
@@ -76,7 +76,7 @@
   
 <p align="side"><img width="736" alt="Graphic" src="https://github.com/user-attachments/assets/69d4b7fe-3a0a-4cd9-ae65-c237fea424d3" />
 
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rye&size=24&duration=1400&pause=1700&color=384006&width=435&lines=I+Still+Trust+you+Yet+you+betrayer+." alt="Typing SVG" /></a>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=384006&center=true&vCenter=true&width=435&lines=BETRAYER..+I+trusted+you." alt="Typing SVG" /></a>
 <p align="center"><img width="736" alt="lace" src="https://github.com/user-attachments/assets/a871e865-060c-4527-921b-d82dda3a6d34" />
   
 <div align="center">
@@ -132,9 +132,23 @@
   
       
 <p align="center"><img width="736" alt="graphic" src="https://github.com/user-attachments/assets/62c54517-735a-4067-a3ba-40dc48fa6b76" />
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rye&size=24&duration=1400&pause=1700&color=384006&width=435&lines=you+look+pathetic+Telamon+." alt="Typing SVG" /></a>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=22&pause=1000&color=384006&center=true&vCenter=true&width=435&lines=You+look+pathetic.+TELAMON." alt="Typing SVG" /></a>
 <p align="center"><img width="736" alt="lace" src="https://github.com/user-attachments/assets/a871e865-060c-4527-921b-d82dda3a6d34" />
 <p align="center"><img width="736" alt="Graphic5" src="https://github.com/user-attachments/assets/7531524e-d3e6-4464-a5f9-1a2d27d59029" />
+<p align="center"<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=384006&center=true&vCenter=true&width=435&lines=Eugh+you+again..+Twotime.." alt="Typing SVG" /></a>
+
+<p align="center"><img width="150"  alt="a14" src="https://github.com/user-attachments/assets/4bac16d9-a09a-481f-99d3-b0143de06a12" /><img width="150"  alt="g34" src="https://github.com/user-attachments/assets/95af6d5e-73f7-4933-9582-64fcb892e269" /><img width="150" alt="tumblr_8fa77459b5a671ad955ffa9bb0d510fa_3f5a4c56_640" src="https://github.com/user-attachments/assets/d38f000b-a046-4c70-b352-23178f5cf73e" />
+<img width="150" alt="static-assets-upload17531564460957186980" src="https://github.com/user-attachments/assets/8b2779d4-d6db-43d4-bdcd-881a9d760746" />
+<img width="150"  alt="static-assets-upload6495408840922833313" src="https://github.com/user-attachments/assets/a8e76c72-db7d-451c-a974-9d265ccc076b" />
+<img width="150"  alt="tumblr_fede07cbc2ed589cbef0ce8afe5a1a73_3e4fc533_640" src="https://github.com/user-attachments/assets/c1244f4b-f8ca-4d91-8004-d8cf1c73f34b" />
+
+
+<p align="center"><img width="700" alt="Weirdcore" src="https://github.com/user-attachments/assets/b6d030db-1064-43a7-9611-046f44ca4b57" />
+
+
+
+
+
 
 
 
