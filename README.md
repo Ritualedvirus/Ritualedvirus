@@ -1,4 +1,4 @@
-<p align="center"><a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FRitualedvirus%2FRitualedvirus%2Fedit%2Fmain%2FREADME.md"><img src="https://api.visitorbadge.io/api/count?path=https%3A%2F%2Fgithub.com%2FRitualedvirus%2FRitualedvirus%2Fedit%2Fmain%2FREADME.md&label=Hatred&labelColor=%238e0a00&countColor=%23901000&style=plastic&labelStyle=upper" /></a>
+<p align="center"><a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FRitualedvirus%2FRitualedvirus%2Fedit%2Fmain%2FREADME.md"><img src="https://api.visitorbadge.io/api/total?path=https%3A%2F%2Fgithub.com%2FRitualedvirus%2FRitualedvirus%2Fedit%2Fmain%2FREADME.md&label=Hatred&labelColor=%238e0a00&countColor=%23901000&style=plastic&labelStyle=upper" /></a>
 
 
 
