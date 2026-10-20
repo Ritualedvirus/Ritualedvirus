@@ -1,5 +1,4 @@
-<p align="center"><a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FRitualedvirus%2FRitualedvirus%2Fedit%2Fmain%2FREADME.md"><img src="https://api.visitorbadge.io/api/total?path=https%3A%2F%2Fgithub.com%2FRitualedvirus%2FRitualedvirus%2Fedit%2Fmain%2FREADME.md&label=Hatred&labelColor=%238e0a00&countColor=%23901000&style=plastic&labelStyle=upper" /></a>
-
+<p align="center"><a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FRitualedvirus"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FRitualedvirus&label=Hatred&labelColor=%23830000&countColor=%23830000&style=plastic&labelStyle=upper" /></a>
 
 
 <p align="center"><img width="26" height="16" alt="22460137_8YiSDldX14crTHy" src="https://github.com/user-attachments/assets/aad5507a-954d-456a-8565-cac52658fd75" /><img width="26" height="16" alt="22461205_3l1VKp5w0kcyqZ2" src="https://github.com/user-attachments/assets/8a2fe915-fbed-4b46-95ab-44d31fa9547f" /><img width="26" height="16" alt="22494384_g0fuyj0PaJnLxQk" src="https://github.com/user-attachments/assets/e4e0453c-4f57-4b07-84d7-8782366ae58a" />
