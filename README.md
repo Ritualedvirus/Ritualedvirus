@@ -55,10 +55,7 @@
      </details>
 
 <p align="center">$${\color{#A5C0B6FF}\textbf{...}}{\color{#A5C0B6FF}\textbf{୨}}{\color{#A5C0B6FF}\textbf{✩}}{\color{#A5C0B6FF}\textbf{୧}}{\color{#A5C0B6FF}\textbf{...}}$$
-  
-<p align="center"><img width="498" alt="azuretime-azuretime-forsaken" src="https://github.com/user-attachments/assets/78967a0b-291b-4068-b77f-932f02048205" />
 
-  
 <p align="center"><img width="3825" alt="Untitled12_20261022150920" src="https://github.com/user-attachments/assets/215fb79e-eec8-4ab3-8469-a426f3c95a96" />
 
 
